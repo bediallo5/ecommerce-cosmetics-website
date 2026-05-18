@@ -1,0 +1,35 @@
+.racine {
+    -fx-padding: 20;
+    -fx-spacing: 12;
+    -fx-font-size: 14px;
+    -fx-background-color: #f4f4f4;
+}
+
+.button {
+    -fx-background-color: #4a90e2;
+    -fx-text-fill: white;
+    -fx-padding: 8 12;
+    -fx-background-radius: 6;
+}
+
+.button:hover {
+    -fx-background-color: #357ABD;
+}
+
+.text-field {
+    -fx-padding: 8;
+    -fx-background-radius: 5;
+}
+
+.list-view {
+    -fx-background-color: white;
+    -fx-padding: 5;
+}
+
+.check-box {
+    -fx-padding: 5;
+}
+
+.label {
+    -fx-font-weight: bold;
+}<
