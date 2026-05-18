@@ -1,2 +1,3 @@
-# Site E-commerce de Cosmétiques
-Développement d'une application web dynamique de commerce en ligne connectée à une base de données relationnelle.
+# Application de Gestion de Tâches
+
+Application logicielle de bureau permettant de planifier, d'organiser et de suivre des objectifs ou tâches quotidiennes.
